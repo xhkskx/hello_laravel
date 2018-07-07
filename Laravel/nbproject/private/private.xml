@@ -3,16 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/www2018/Laravel/app/Http/Controllers/Controller.php</file>
             <file>file:/D:/www2018/Laravel/app/Http/Controllers/UsersController.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/static_pages/about.blade.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/layouts/_header.blade.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/layouts/_footer.blade.php</file>
+            <file>file:/D:/www2018/Laravel/app/Http/Controllers/SessionsController.php</file>
             <file>file:/D:/www2018/Laravel/resources/views/users/create.blade.php</file>
             <file>file:/D:/www2018/Laravel/resources/views/layouts/default.blade.php</file>
+            <file>file:/D:/www2018/Laravel/resources/views/users/show.blade.php</file>
             <file>file:/D:/www2018/Laravel/routes/web.php</file>
-            <file>file:/D:/www2018/Laravel/app/Http/Controllers/StaticPagesController.php</file>
-            <file>file:/D:/www2018/Laravel/resources/assets/sass/app.scss</file>
-            <file>file:/D:/www2018/Laravel/resources/views/static_pages/home.blade.php</file>
+            <file>file:/D:/www2018/Laravel/resources/views/shared/_errors.blade.php</file>
         </group>
     </open-files>
 </project-private>
