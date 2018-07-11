@@ -3,14 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/www2018/Laravel/app/Http/Controllers/Controller.php</file>
+            <file>file:/D:/www2018/Laravel/resources/views/users/index.blade.php</file>
+            <file>file:/D:/www2018/Laravel/database/factories/UserFactory.php</file>
             <file>file:/D:/www2018/Laravel/app/Http/Controllers/UsersController.php</file>
-            <file>file:/D:/www2018/Laravel/app/Http/Controllers/SessionsController.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/users/create.blade.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/layouts/default.blade.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/users/show.blade.php</file>
-            <file>file:/D:/www2018/Laravel/routes/web.php</file>
-            <file>file:/D:/www2018/Laravel/resources/views/shared/_errors.blade.php</file>
+            <file>file:/D:/www2018/Laravel/app/Policies/UserPolicy.php</file>
+            <file>file:/D:/www2018/Laravel/resources/views/users/_user.blade.php</file>
+            <file>file:/D:/www2018/Laravel/database/migrations/2018_07_11_063702_add_is_admin_to_users_table.php</file>
+            <file>file:/D:/www2018/Laravel/resources/assets/sass/app.scss</file>
         </group>
     </open-files>
 </project-private>
